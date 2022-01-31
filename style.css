@@ -1,0 +1,24 @@
+body{background-color: silver;
+    padding: 20px;
+}
+h1{background-color:#ffffff ;
+    color:gray ;
+    text-align: center;
+
+}
+p{padding: 5px;margin: 0px;}
+p.a{background-color: rgb(2, 114, 184);color: white;}
+p.b{background-color: rgb(6, 132, 206);color: white;}
+p.c{background-color: rgb(34, 137, 182);color: white;}
+p.d{background-color: rgb(18, 150, 207);color: white;}
+p.e{background-color: rgb(20, 157, 216);color: white;}
+p.f{background-color: rgb(65, 192, 246);color: white;}
+p.g{background-color: rgb(0,187,136);color: white;}
+p.h{background-color: rgb(233, 123, 174);color: white;}
+p.i{background-color: rgb(233, 132, 172);color: white;}
+p.j{background-color:rgb(223, 78, 136);color: white;}
+p.k{background-color:rgb(192, 58, 111);color: white;}
+p.l{background-color:rgb(211, 55, 117);color: white;}
+p.m{background-color: rgb(209, 30, 102);color: white;}
+p.n{background-color:rgb(190, 27, 92);color: white;}
+p.o{background-color:rgb(175, 13, 78);color: white;}
